@@ -1,0 +1,3 @@
+select * from json where url = "http://developer.mbta.com/lib/rthr/red.json" 
+
+use rest query link.
